@@ -9,7 +9,7 @@ const config = {
   title: 'Hi I am Reece Atkinson!',
   tagline: 'I am a frontend developer that focuses on the users experience. ',
   url: 'https://reeceatkinson.github.io/me',
-  baseUrl: '/',
+  baseUrl: '/me/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
