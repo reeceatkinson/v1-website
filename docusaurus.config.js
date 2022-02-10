@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/me/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.PNG',
   organizationName: 'reeceatkinson', // Usually your GitHub org/user name.
   projectName: 'me', // Usually your repo name.
 
@@ -28,9 +28,6 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/reeceatkinson/me/tree/master/website/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,22 +40,28 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Reece Atkinson',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/favicon.ico',
+          alt: 'R',
+          src: 'img/reece.PNG',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorials',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/contact', label: 'Contact Me', position: 'left'},
+
           {
             href: 'https://github.com/reeceatkinson',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/users/reeceatkinson/projects/9',
+            label: 'Projects',
             position: 'right',
           },
         ],

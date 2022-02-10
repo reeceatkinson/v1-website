@@ -8,10 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: #005C97;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #363795, #5271FF);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #363795, #5271FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  
+  background-color: #2D50E9;
 }
 
 @media screen and (max-width: 966px) {
