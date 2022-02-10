@@ -46,7 +46,7 @@ const config = {
         title: 'Reece Atkinson',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.ico',
         },
         items: [
           {
@@ -65,7 +65,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Reece Atkinson. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Reece Atkinson.`,
       },
       prism: {
         theme: lightCodeTheme,
