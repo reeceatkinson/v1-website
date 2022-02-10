@@ -2,25 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reeceatkinson.github.io/me/me/blog</id>
     <title>Hi I am Reece Atkinson! Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-02-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reeceatkinson.github.io/me/me/blog"/>
     <subtitle>Hi I am Reece Atkinson! Blog</subtitle>
-    <icon>https://reeceatkinson.github.io/me/me/img/favicon.ico</icon>
+    <icon>https://reeceatkinson.github.io/me/me/img/favicon.PNG</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://reeceatkinson.github.io/me/me/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img alt="Docusaurus Plushie" src="/me/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+        <title type="html"><![CDATA[Welcome to my new website!]]></title>
+        <id>newweb</id>
+        <link href="https://reeceatkinson.github.io/me/me/blog/newweb"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my new website!]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="welcome-to-my-new-website"><strong>Welcome to my new website!</strong><a class="hash-link" href="#welcome-to-my-new-website" title="Direct link to heading">​</a></h3><h5 class="anchor anchorWithStickyNavbar_mojV" id="this-website-is-to-showcase-my-skills-and-what-i-have-been-working-on">This website is to showcase my skills and what I have been working on.<a class="hash-link" href="#this-website-is-to-showcase-my-skills-and-what-i-have-been-working-on" title="Direct link to heading">​</a></h5><h4 class="anchor anchorWithStickyNavbar_mojV" id="it-includes-things-like">It includes things like:<a class="hash-link" href="#it-includes-things-like" title="Direct link to heading">​</a></h4><ul><li>Tutorials</li><li>Blogs</li><li>Contact Form</li><li>About</li><li>Projects
+and alot more to come.</li></ul><h5 class="anchor anchorWithStickyNavbar_mojV" id="i-chose-to-build-the-site-with-docusaurus-as-i-have-never-used-the-framework-before">I chose to build the site with Docusaurus as I have never used the framework before.<a class="hash-link" href="#i-chose-to-build-the-site-with-docusaurus-as-i-have-never-used-the-framework-before" title="Direct link to heading">​</a></h5><h3 class="anchor anchorWithStickyNavbar_mojV" id="whats-next"><strong>What's Next?</strong><a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h3><p>General improvements and design changes bearing in mind this is a ALPHA website.</p>]]></content>
         <author>
             <name>Reece Atkinson</name>
             <uri>https://github.com/reeceatkinson</uri>
         </author>
-        <category label="facebook" term="facebook"/>
+        <category label="website" term="website"/>
         <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="portfolio" term="portfolio"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
