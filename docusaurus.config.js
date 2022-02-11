@@ -52,6 +52,7 @@ const config = {
             label: 'My Snippets',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
           {to: '/contact', label: 'Contact Me', position: 'left'},
           {
             href: 'https://github.com/reeceatkinson',

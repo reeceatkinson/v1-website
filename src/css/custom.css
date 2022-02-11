@@ -63,13 +63,21 @@ header .intro {
 
 }
 
+.form {
+  border-radius: 15px;
+}
+
+.about {
+  padding: 20px;
+}
 
 .project {
   background-color: #d0d9ff;
-  margin:0 auto;
+  margin: 0 auto;
   border-radius: 15px;
   width: 90%;
-  padding: 20px;
+  height: fit-content;
+  padding: 25px;
   color: #2D50E9;
   font-weight: bold;
 }
