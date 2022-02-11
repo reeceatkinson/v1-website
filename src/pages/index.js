@@ -26,7 +26,12 @@ export default function Home() {
       description="Reece Atkinson's portfolio website.">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <br/>
+        <div class="project">
+          <h2>Electric Purple:</h2>
+          <p>Electric Purple is a theme that makes your dev environment more colourful but maintains the dark mode that developers love to prevent eye strain.</p>
+          <a href="https://www.producthunt.com/posts/electric-purple-vs-code-theme?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-electric-purple-vs-code-theme" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=324898&theme=light" alt="Electric Purple VS Code Theme - A theme that will brighten your env and not strain your eyes | Product Hunt" width="250" height="54" /></a>
+        </div>
       </main>
     </Layout>
   );
