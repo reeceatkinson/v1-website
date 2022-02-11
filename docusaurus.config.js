@@ -42,7 +42,7 @@ const config = {
       navbar: {
         logo: {
           alt: 'R',
-          src: 'img/reece.PNG',
+          src: 'img/reece.png',
         },
         items: [
           {
