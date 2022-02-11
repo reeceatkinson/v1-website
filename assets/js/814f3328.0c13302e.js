@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"What I use in my day to day!","permalink":"/me/blog/everyday"},{"title":"Welcome to my new website!","permalink":"/me/blog/newweb"},{"title":"MDX Blog Post","permalink":"/me/blog/mdx-blog-post"}]}')}}]);

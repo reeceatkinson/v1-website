@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reeceatkinson.github.io/me/me/blog</id>
     <title>Hi I am Reece Atkinson! Blog</title>
-    <updated>2022-02-10T00:00:00.000Z</updated>
+    <updated>2022-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reeceatkinson.github.io/me/me/blog"/>
     <subtitle>Hi I am Reece Atkinson! Blog</subtitle>
     <icon>https://reeceatkinson.github.io/me/me/img/favicon.PNG</icon>
+    <entry>
+        <title type="html"><![CDATA[What I use in my day to day!]]></title>
+        <id>everyday</id>
+        <link href="https://reeceatkinson.github.io/me/me/blog/everyday"/>
+        <updated>2022-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What I use nearly everyday]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="what-i-use-nearly-everyday">What I use nearly everyday<a class="hash-link" href="#what-i-use-nearly-everyday" title="Direct link to heading">​</a></h3><p>I use what most developers use really...</p><ul><li>GitHub</li><li>StackOverflow</li><li>GitHub Codespaces</li><li>Apple Mail</li><li>Apple Music</li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="tech-wise">Tech wise?<a class="hash-link" href="#tech-wise" title="Direct link to heading">​</a></h3><p>I bet you would love to know that...</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="everyday" term="everyday"/>
+        <category label="tools" term="tools"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to my new website!]]></title>
         <id>newweb</id>

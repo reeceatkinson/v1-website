@@ -4,9 +4,19 @@
         <title>Hi I am Reece Atkinson! Blog</title>
         <link>https://reeceatkinson.github.io/me/me/blog</link>
         <description>Hi I am Reece Atkinson! Blog</description>
-        <lastBuildDate>Thu, 10 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What I use in my day to day!]]></title>
+            <link>https://reeceatkinson.github.io/me/me/blog/everyday</link>
+            <guid>everyday</guid>
+            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[What I use nearly everyday]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="what-i-use-nearly-everyday">What I use nearly everyday<a class="hash-link" href="#what-i-use-nearly-everyday" title="Direct link to heading">​</a></h3><p>I use what most developers use really...</p><ul><li>GitHub</li><li>StackOverflow</li><li>GitHub Codespaces</li><li>Apple Mail</li><li>Apple Music</li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="tech-wise">Tech wise?<a class="hash-link" href="#tech-wise" title="Direct link to heading">​</a></h3><p>I bet you would love to know that...</p>]]></content:encoded>
+            <category>everyday</category>
+            <category>tools</category>
+        </item>
         <item>
             <title><![CDATA[Welcome to my new website!]]></title>
             <link>https://reeceatkinson.github.io/me/me/blog/newweb</link>
