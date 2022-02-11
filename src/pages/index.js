@@ -24,6 +24,9 @@ export default function Home() {
     <Layout
       title="Reece Atkinson"
       description="Reece Atkinson's portfolio website.">
+      <Head>
+        <meta property="og:image" content="img/favicon.PNG" />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
