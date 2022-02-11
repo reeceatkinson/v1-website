@@ -49,11 +49,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'DevTutorials',
+            label: 'My Snippets',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/contact', label: 'Contact Me', position: 'left'},
-
           {
             href: 'https://github.com/reeceatkinson',
             label: 'GitHub',
@@ -61,7 +60,7 @@ const config = {
           },
           {
             href: 'https://github.com/users/reeceatkinson/projects/9',
-            label: 'Projects',
+            label: 'My Roadmap',
             position: 'right',
           },
         ],
