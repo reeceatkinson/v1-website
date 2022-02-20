@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reeceatkinson.github.io/me/me/blog</id>
     <title>Hi I am Reece Atkinson! Blog</title>
-    <updated>2022-02-11T00:00:00.000Z</updated>
+    <updated>2022-02-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reeceatkinson.github.io/me/me/blog"/>
     <subtitle>Hi I am Reece Atkinson! Blog</subtitle>
     <icon>https://reeceatkinson.github.io/me/me/img/favicon.PNG</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducing Electric Purple - VS Code Theme]]></title>
+        <id>vscodetheme-ep</id>
+        <link href="https://reeceatkinson.github.io/me/me/blog/vscodetheme-ep"/>
+        <updated>2022-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Electric Purple...]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="introducing-electric-purple">Introducing Electric Purple...<a class="hash-link" href="#introducing-electric-purple" title="Direct link to heading">​</a></h3><p>Electric purple is a theme that relieves and prevents eye strain by maintaining dark mode but also adding a pop of colour to developers workspaces.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="hitting-100-installs">Hitting 100 installs...<a class="hash-link" href="#hitting-100-installs" title="Direct link to heading">​</a></h3><p>Electric Purple is coming to 100 installs rapidly and I cannot wait to see how developers feel about it.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="whats-next">What's Next?<a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h3><p>By Dec 2022 I will be publishing a new theme (which is my favourite colour) Electric Blue. I will post an update about this very soon!</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="product-hunt">Product Hunt<a class="hash-link" href="#product-hunt" title="Direct link to heading">​</a></h3><p>I launched on Product Hunt a while ago but any upvotes would still really help me!
+<a href="https://www.producthunt.com/posts/electric-purple-vs-code-theme" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/posts/electric-purple-vs-code-theme</a></p><h3 class="anchor anchorWithStickyNavbar_mojV" id="install-the-theme">Install the theme<a class="hash-link" href="#install-the-theme" title="Direct link to heading">​</a></h3><p>You can head over to the VS Code Marketplace and search <strong>"Electric Purple"</strong> or click the link below...
+<a href="https://marketplace.visualstudio.com/items?itemName=reece.electric-purple" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=reece.electric-purple</a></p><h4 class="anchor anchorWithStickyNavbar_mojV" id="thanks-for-reading-and-i-hope-you-enjoy-the-theme">Thanks for reading and I hope you enjoy the theme,<a class="hash-link" href="#thanks-for-reading-and-i-hope-you-enjoy-the-theme" title="Direct link to heading">​</a></h4><p>(But if you don't that's fine aswell)</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="themes" term="themes"/>
+        <category label="tools" term="tools"/>
+        <category label="developers" term="developers"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I use in my day to day!]]></title>
         <id>everyday</id>
@@ -36,18 +53,5 @@ and alot more to come.</li></ul><h5 class="anchor anchorWithStickyNavbar_mojV" i
         <category label="website" term="website"/>
         <category label="hello" term="hello"/>
         <category label="portfolio" term="portfolio"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>mdx-blog-post</id>
-        <link href="https://reeceatkinson.github.io/me/me/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p><div class="admonition admonition-tip alert alert--success"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</h5></div><div class="admonition-content"><p>Use the power of React to create interactive blog posts.</p><div class="codeBlockContainer_I0IT language-js theme-code-block"><div class="codeBlockContent_wNvx js"><pre tabindex="0" class="prism-code language-js codeBlock_jd64 thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_mRuA"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><button type="button" aria-label="Copy code to clipboard" class="copyButton_wuS7 clean-btn">Copy</button></div></div><button>Click me!</button></div></div>]]></content>
-        <author>
-            <name>Reece Atkinson</name>
-            <uri>https://github.com/reeceatkinson</uri>
-        </author>
-        <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>
