@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreece=self.webpackChunkreece||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing Electric Purple","permalink":"/me/blog/vscodetheme-ep"},{"title":"What I use in my day to day!","permalink":"/me/blog/everyday"},{"title":"Welcome to my new website!","permalink":"/me/blog/newweb"}]}')}}]);
