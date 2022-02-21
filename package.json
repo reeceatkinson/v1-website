@@ -1,6 +1,6 @@
 {
-  "name": "docusaurus",
-  "version": "0.0.0",
+  "name": "reece",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "description": "Docusaurus example project"
+  "description": "Reece Atkinson's Portfolio Website"
 }
