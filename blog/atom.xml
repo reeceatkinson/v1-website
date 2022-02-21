@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://reeceatkinson.github.io/blog</id>
+    <title>Hi I am Reece Atkinson! Blog</title>
+    <updated>2022-02-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://reeceatkinson.github.io/blog"/>
+    <subtitle>Hi I am Reece Atkinson! Blog</subtitle>
+    <icon>https://reeceatkinson.github.io/img/favicon.PNG</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducing Electric Purple]]></title>
+        <id>vscodetheme-ep</id>
+        <link href="https://reeceatkinson.github.io/blog/vscodetheme-ep"/>
+        <updated>2022-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Electric Purple...]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="introducing-electric-purple">Introducing Electric Purple...<a class="hash-link" href="#introducing-electric-purple" title="Direct link to heading">​</a></h3><p>Electric purple is a theme that relieves and prevents eye strain by maintaining dark mode but also adding a pop of colour to developers workspaces.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="hitting-100-installs">Hitting 100 installs...<a class="hash-link" href="#hitting-100-installs" title="Direct link to heading">​</a></h3><p>Electric Purple is coming to 100 installs rapidly and I cannot wait to see how developers feel about it.</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="whats-next">What's Next?<a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h3><p>By Dec 2022 I will be publishing a new theme (which is my favourite colour) Electric Blue. I will post an update about this very soon!</p><h3 class="anchor anchorWithStickyNavbar_mojV" id="product-hunt">Product Hunt<a class="hash-link" href="#product-hunt" title="Direct link to heading">​</a></h3><p>I launched on Product Hunt a while ago but any upvotes would still really help me!
+<a href="https://www.producthunt.com/posts/electric-purple-vs-code-theme" target="_blank" rel="noopener noreferrer">https://www.producthunt.com/posts/electric-purple-vs-code-theme</a></p><h3 class="anchor anchorWithStickyNavbar_mojV" id="install-the-theme">Install the theme<a class="hash-link" href="#install-the-theme" title="Direct link to heading">​</a></h3><p>You can head over to the VS Code Marketplace and search <strong>"Electric Purple"</strong> or click the link below...
+<a href="https://marketplace.visualstudio.com/items?itemName=reece.electric-purple" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=reece.electric-purple</a></p><h4 class="anchor anchorWithStickyNavbar_mojV" id="thanks-for-reading-and-i-hope-you-enjoy-the-theme">Thanks for reading and I hope you enjoy the theme,<a class="hash-link" href="#thanks-for-reading-and-i-hope-you-enjoy-the-theme" title="Direct link to heading">​</a></h4><p>(But if you don't that's fine aswell)</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="themes" term="themes"/>
+        <category label="tools" term="tools"/>
+        <category label="developers" term="developers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I use in my day to day!]]></title>
+        <id>everyday</id>
+        <link href="https://reeceatkinson.github.io/blog/everyday"/>
+        <updated>2022-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What I use nearly everyday]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="what-i-use-nearly-everyday">What I use nearly everyday<a class="hash-link" href="#what-i-use-nearly-everyday" title="Direct link to heading">​</a></h3><p>I use what most developers use really...</p><ul><li>GitHub</li><li>StackOverflow</li><li>GitHub Codespaces</li><li>Apple Mail</li><li>Apple Music</li></ul><h3 class="anchor anchorWithStickyNavbar_mojV" id="tech-wise">Tech wise?<a class="hash-link" href="#tech-wise" title="Direct link to heading">​</a></h3><p>I bet you would love to know that...</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="everyday" term="everyday"/>
+        <category label="tools" term="tools"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to my new website!]]></title>
+        <id>newweb</id>
+        <link href="https://reeceatkinson.github.io/blog/newweb"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my new website!]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="welcome-to-my-new-website"><strong>Welcome to my new website!</strong><a class="hash-link" href="#welcome-to-my-new-website" title="Direct link to heading">​</a></h3><h5 class="anchor anchorWithStickyNavbar_mojV" id="this-website-is-to-showcase-my-skills-and-what-i-have-been-working-on">This website is to showcase my skills and what I have been working on.<a class="hash-link" href="#this-website-is-to-showcase-my-skills-and-what-i-have-been-working-on" title="Direct link to heading">​</a></h5><h4 class="anchor anchorWithStickyNavbar_mojV" id="it-includes-things-like">It includes things like:<a class="hash-link" href="#it-includes-things-like" title="Direct link to heading">​</a></h4><ul><li>Tutorials</li><li>Blogs</li><li>Contact Form</li><li>About</li><li>Projects
+and alot more to come.</li></ul><h5 class="anchor anchorWithStickyNavbar_mojV" id="i-chose-to-build-the-site-with-docusaurus-as-i-have-never-used-the-framework-before">I chose to build the site with Docusaurus as I have never used the framework before.<a class="hash-link" href="#i-chose-to-build-the-site-with-docusaurus-as-i-have-never-used-the-framework-before" title="Direct link to heading">​</a></h5><h3 class="anchor anchorWithStickyNavbar_mojV" id="whats-next"><strong>What's Next?</strong><a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h3><p>General improvements and design changes bearing in mind this is a ALPHA website.</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="website" term="website"/>
+        <category label="hello" term="hello"/>
+        <category label="portfolio" term="portfolio"/>
+    </entry>
+</feed>

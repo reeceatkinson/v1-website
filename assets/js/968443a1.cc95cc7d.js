@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreece=self.webpackChunkreece||[]).push([[370],{8092:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/everyday","name":"everyday","count":1,"permalink":"/blog/tags/everyday"}')}}]);
