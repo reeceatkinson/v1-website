@@ -5,6 +5,9 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&family=Zen+Kaku+Gothic+Antique:wght@700&display=swap');
+
 :root {
   --ifm-color-primary: #2D50E9;
   --ifm-color-primary-dark: #2d50e9;
@@ -34,17 +37,27 @@ html[data-theme='dark'] {
   padding: 0 var(--ifm-pre-padding);
 }
 
+.navbar {
+  background-color: #f8fbff;
+}
+
+html[data-theme='dark'] .navbar {
+  background-color: rgb(1, 0, 39);
+}
+
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 .hero__title {
-  color: white;
+  color: #ffc2db;
+  font-family: 'Roboto Mono', monospace;
 }
 html[data-theme='dark'] .hero__title {
-  color: white;
+  color: #ffc2db;
 }
 .hero__subtitle {
   color: white;
+  font-family: 'Roboto Mono', monospace;
 }
 html[data-theme='dark'] .hero__subtitle {
   color: white;
@@ -53,14 +66,6 @@ html[data-theme='dark'] .hero__subtitle {
 .hero--primary {
   padding-top: 10px;
   height: 230px;
-}
-
-header .intro {
-  padding-top: 10px;
-  background: #005C97;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #363795, #005C97); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
 }
 
 .form {
@@ -81,6 +86,25 @@ header .intro {
   color: #2D50E9;
   font-weight: bold;
 }
+
 .project p {
   color: black;
+}
+
+
+@media only screen and (max-width: 500px) {
+  .hero__subtitle {
+    display: none;
+  }
+}
+
+h1, h2, h3, h4, h5, h6, p, small, li, a, button, input, textarea, label, span, div {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.footer {
+  color: #2D50E9;
+  background-color: #ffc2db;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
 }

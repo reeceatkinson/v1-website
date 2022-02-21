@@ -48,6 +48,7 @@ export default function Home() {
           <p>One place with all the tools you need (including email) to get more done!</p>
         </div>
       </main>
+      <br/>
     </Layout>
   );
 }
