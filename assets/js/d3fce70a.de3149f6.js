@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreece=self.webpackChunkreece||[]).push([[558],{4249:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/apple","name":"apple","count":1,"permalink":"/blog/tags/apple"}')}}]);

@@ -4,9 +4,18 @@
         <title>Reece Atkinson Blog</title>
         <link>https://reeceatkinson.github.io/blog</link>
         <description>Reece Atkinson Blog</description>
-        <lastBuildDate>Sun, 20 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What I expect from the Spring Apple Event]]></title>
+            <link>https://reeceatkinson.github.io/blog/applespringevt</link>
+            <guid>applespringevt</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I expect Apple to announce multiple products tommorow:]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="i-expect-apple-to-announce-multiple-products-tommorow">I expect Apple to announce multiple products tommorow:<a class="hash-link" href="#i-expect-apple-to-announce-multiple-products-tommorow" title="Direct link to heading">​</a></h2><ul><li>iPhone SE</li><li>iPhone 13 (Green Colour)</li><li>iPad Air (Colours and 5G)</li><li>Mystery Mac???</li><li>Service Updates</li></ul><p>If there is anymore I would be very surprised!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-do-i-think-there-is-a-mystery-mac">Why do I think there is a mystery Mac?<a class="hash-link" href="#why-do-i-think-there-is-a-mystery-mac" title="Direct link to heading">​</a></h2><p>The fact that the event is called <strong>Peek Performance</strong> I believe that they want to <strong>peek</strong> into the future of the Mac with their Apple Silcons which would refer to the <strong>performace</strong> point of view.</p>]]></content:encoded>
+            <category>apple</category>
+        </item>
         <item>
             <title><![CDATA[Introducing Electric Purple]]></title>
             <link>https://reeceatkinson.github.io/blog/vscodetheme-ep</link>

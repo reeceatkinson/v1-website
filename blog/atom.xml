@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reeceatkinson.github.io/blog</id>
     <title>Reece Atkinson Blog</title>
-    <updated>2022-02-20T00:00:00.000Z</updated>
+    <updated>2022-03-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://reeceatkinson.github.io/blog"/>
     <subtitle>Reece Atkinson Blog</subtitle>
     <icon>https://reeceatkinson.github.io/img/favicon.PNG</icon>
+    <entry>
+        <title type="html"><![CDATA[What I expect from the Spring Apple Event]]></title>
+        <id>applespringevt</id>
+        <link href="https://reeceatkinson.github.io/blog/applespringevt"/>
+        <updated>2022-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I expect Apple to announce multiple products tommorow:]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_mojV" id="i-expect-apple-to-announce-multiple-products-tommorow">I expect Apple to announce multiple products tommorow:<a class="hash-link" href="#i-expect-apple-to-announce-multiple-products-tommorow" title="Direct link to heading">​</a></h2><ul><li>iPhone SE</li><li>iPhone 13 (Green Colour)</li><li>iPad Air (Colours and 5G)</li><li>Mystery Mac???</li><li>Service Updates</li></ul><p>If there is anymore I would be very surprised!</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="why-do-i-think-there-is-a-mystery-mac">Why do I think there is a mystery Mac?<a class="hash-link" href="#why-do-i-think-there-is-a-mystery-mac" title="Direct link to heading">​</a></h2><p>The fact that the event is called <strong>Peek Performance</strong> I believe that they want to <strong>peek</strong> into the future of the Mac with their Apple Silcons which would refer to the <strong>performace</strong> point of view.</p>]]></content>
+        <author>
+            <name>Reece Atkinson</name>
+            <uri>https://github.com/reeceatkinson</uri>
+        </author>
+        <category label="apple" term="apple"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Electric Purple]]></title>
         <id>vscodetheme-ep</id>
